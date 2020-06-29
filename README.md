@@ -1,8 +1,8 @@
 ## Dependencies
 
-python3
-yaml imported library
-csv imported library
+- python3
+- yaml imported library
+- csv imported library
 
 ## To Run
 
