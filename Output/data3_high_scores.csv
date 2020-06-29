@@ -1,0 +1,6 @@
+assignment_id,highest_grade
+Tests/data3.yml/lecture1/assignment1,bob
+Tests/data3.yml/lecture2/before_lunch_break/assignment2,alice
+Tests/data3.yml/lecture2/after_lunch_break/b1/assignment3,alice
+Tests/data3.yml/lecture2/after_lunch_break/b1/assignment4,david
+Tests/data3.yml/lecture2/after_lunch_break/b1/b2/b3/b4/assignment5,grace
