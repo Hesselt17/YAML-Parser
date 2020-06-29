@@ -27,6 +27,6 @@ csv imported library
 
 ## Notes
 
-• I included a clean_yml function in order to clean the files to ensure they are YAML compliant (this verison just cleaned the tabs present in the data1.yml file to ensure it was YAML compliant b/c apparently YAML files cannot have tabs).
-• I kept the full nested file path for the output assignment_id.
+• I included a clean_yml function in order to clean the files to ensure they are YAML compliant (this verison just cleaned the tabs present in the data1.yml file to ensure it was YAML compliant b/c apparently YAML files cannot have tabs).  
+• I kept the full nested file path for the output assignment_id.  
 • Students tied with the same highscore were determined by who came first in the YAML file. 
