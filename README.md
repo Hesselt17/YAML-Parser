@@ -7,9 +7,9 @@ csv imported library
 ## To Run
 
 #### Method 1 (IDE):
-(1) Download zip file and unzip
-(2) Import 'Perimetrics-Hessel' folder into your python IDE of choice
-(3) Import yaml and csv into your IDE
+(1) Download zip file and unzip  
+(2) Import 'Perimetrics-Hessel' folder into your python IDE of choice  
+(3) Import yaml and csv into your IDE  
 (4) Run the HighestScores script (can add more YAML files in the same directory as this script)
 (5) Check 'Output' directory or folder for the output file with the 'high_scores.csv' extension
 (6) Open and view the file from (5)
