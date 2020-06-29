@@ -17,12 +17,12 @@ csv imported library
 #### Method 2 (Command Line):
 1. Download zip file and unzip
 2. Drag the folder to your desktop
-3. Open terminal or command line (CL) and copy, paste (into CL), and hit enter on the following: cd ~/desktop/YAML-Parser
-4. Ensure you have yaml and csv installed (run the below i and ii in the command line if you do not)
-	i. pip install PyYAML
-	ii. pip install python-csv  
-5. Copy, paste (into CL), and hit enter on the following: python HighestScore.py   
-6. Check the 'Outputs' folder (on CL: ls) for an output file with the 'high_scores.csv' extension  
+3. Open terminal or command line (CL) and copy, paste (into CL), and hit enter on the following: `cd ~/desktop/YAML-Parser`
+4. Ensure you have yaml and csv installed (run the below 1 and 2 in the command line if you do not)
+	1. `pip install PyYAML`
+	2. `pip install python-csv`
+5. Copy, paste (into CL), and hit enter on the following: `python HighestScore.py` 
+6. Check the 'Outputs' folder (on CL: ls) for an output file with the 'high_scores.csv' extension
 7. Open and view the file from 6
 
 ## Notes
